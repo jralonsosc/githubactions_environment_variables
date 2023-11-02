@@ -10,7 +10,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: atlas-sql-654393d3a6466410d2fb9aa8-lntdf.a.query.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.olj98i3.mongodb.net
       MONGODB_USERNAME: jralonso84
       MONGODB_PASSWORD: O3OdjvcBvg60d524
       PORT: 8080
